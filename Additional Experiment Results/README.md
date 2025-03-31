@@ -1,12 +1,14 @@
-# Additional experiment results of  "Risk-aware Direct Preference Optimization under Nested Risk Measure"
+# ICML2025 Ra-DPO
+
+# An overview of the additional experiment results for "Risk-aware Direct Preference Optimization under Nested Risk Measure"
 
 ## Overall:
 
-We have added three experimental results to demonstrate the advantages of our method, specifically including:
+We have added several experimental results to demonstrate the advantages of our method, specifically including:
 
 1) **Numerical example:** includes a numerical example;
-2) **Q&A  evaluation example using LLMs:** Presents comparative evaluation results of LLMs across different algorithms on Q&A datasets;
-3) **The results of Ra_DPO_2(Nested-ERM):** Presents the results using nested ERM (an alternative risk measure function).
+2) **Q&A  evaluation example using LLMs:** presents comparative evaluation results of LLMs across different algorithms on Q&A datasets;
+3) **The results of Ra_DPO_2(Nested-ERM):** presents the results using nested ERM (an alternative risk measure function).
 
 ## Details:
 
