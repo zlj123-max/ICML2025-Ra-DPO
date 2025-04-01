@@ -5,9 +5,9 @@ The experimental results shown as Figures 1-3.
 
 ## Nested risk measure
 
-In this paper, we introduce the nested risk measure function $\operatorname{\Phi}(\cdot)$ with risk control parameter $\mu$.
+In this paper, we introduce the nested risk measure function $\Phi(\cdot)$ with risk control parameter $\mu$.
 
-For any random variable $Z$, we have $\operatorname{\Phi}^{\mu}(Z)=\int_0^1 F_Z^{-1}(\xi) \mathrm{d} G(\xi),$ where $G$ is a weighting function over the quantiles.
+For any random variable $Z$, we have $\Phi^{\mu}(Z)=\int_0^1 F_Z^{-1}(\xi) \mathrm{d} G(\xi),$ where $G$ is a weighting function over the quantiles.
 
 Specifically, in the experiments, we employed the popular CVaR as the risk measure function.
 
