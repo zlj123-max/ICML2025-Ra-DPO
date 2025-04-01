@@ -2,6 +2,8 @@
 
 # An overview of the additional experiment results for "Risk-aware Direct Preference Optimization under Nested Risk Measure"
 
+**Note: Some images or files may be too large to preview and require downloading. (Please click the 'Download Repository' button in the upper-right corner.)**
+
 ## Overall:
 
 We add several experimental results to demonstrate the advantages of our method, specifically including:
@@ -31,4 +33,9 @@ We add several experimental results to demonstrate the advantages of our method,
 **The "The results with different seeds" folder.**
 
 * This folder includes the comparison of results under different seeds and experimental results with different seeds, which is conducted on the Anthropic HH dataset using Pythia-1.4B as base models. 
+
+
+
+
+
 
