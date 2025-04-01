@@ -2,11 +2,6 @@
 
 We add the experimental results using nested ERM risk measure to demonstrate the effectiveness of our algorithm, which is conducted on Anthropic HH dataset with Pythia-1.4B serving as the base model.
 The experimental results shown as Figures 1-3.
-![Figure 1 Sequential KL divergence(chosen)](< Figure 1 sequential KL divergence(chosen).jpg>)
-
-![Figure 2 Sequential KL divergence(rejected)](< Figure 2 sequential KL divergence(rejected).jpg>)
-
-![Figure 3 Reward accuracy](< Figure 3 reward accuracy.jpg>)
 
 ## Nested risk measure
 
