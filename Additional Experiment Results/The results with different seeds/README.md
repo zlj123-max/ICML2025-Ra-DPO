@@ -7,5 +7,5 @@
   - **Ours:** $Ra-DPO_2$ (ERM) with $\alpha= 0.5$, and risk  coefficient $\mu = 5$.
 
 
-* The experimental results demonstrate that our $Ra-DPO_2$ methods consistently maintain lower KL divergence and higher reward accuracy. The only exception occurs with seed=10, where $TDPO_2$ attains comparable accuracy levels.
+* The experimental results demonstrate that our $Ra-DPO_2$ algorithm consistently maintains lower KL divergence and higher reward accuracy. The only exception occurs with seed=10, where $TDPO_2$ attains comparable accuracy levels.
 
