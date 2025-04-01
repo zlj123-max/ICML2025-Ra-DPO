@@ -1,4 +1,4 @@
-# An overview of the experiment of Ra_DPO_2(Nested-ERM)
+# An overview of the experiment of Ra_DPO_2(ERM)
 
 We add the experimental results using nested ERM risk measure to demonstrate the effectiveness of our algorithm, which is conducted on Anthropic HH dataset with Pythia-1.4B serving as the base model.
 The experimental results shown as Figures 1-3.
